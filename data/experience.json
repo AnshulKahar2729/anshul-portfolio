@@ -1,0 +1,14 @@
+{
+  "experience": [
+    {
+      "clogo": "/companyLogo/mavysoft.jpeg",
+      "title": "Full Stack Developer",
+      "company": "at, Mavysoft",
+      "point1": "Contributed to the development of UI and components using ReactJS for cryptocurrency marketplace, where users can create an offer to buy and sell their favourite cryptocurrency on the platform.",
+      "point2": "Created an admin panel using ReactJS and NodeJS for the platform to manage users, offers, and transactions.",
+      "startDate": "Jan, 2024",
+      "endDate": "Apr, 2024"
+    }
+   
+  ]
+}

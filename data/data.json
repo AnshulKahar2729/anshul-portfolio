@@ -1,0 +1,84 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Learnify - LMS",
+        "content": "Learnify is a nextJS LMS (Learning management system) which is used to create, deliver, and manage online courses.Instructors can create and structure courses with learning modules and learners can access course materials, lectures, videos",
+        "githubLink": "https://github.com/AnshulKahar2729/Learnify-NextJS-LMS",
+        "imgurl": "/projectSS/learnify.png",
+        "deployedLink": "https://learnify-next-js-lms.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/shadcn.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "DiscussIt - Share your thoughts",
+        "content": "Discussit is a platform where you can post your opinion and thoughts in a corresponding community, vote on posts and comments and reply to each other's opinions.",
+        "githubLink": "https://github.com/AnshulKahar2729/Discussit-NextJS",
+        "imgurl": "/projectSS/discuss-it.png",
+        "deployedLink": "https://discussit-orpin.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/shadcn.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Video call app - using webRTC",
+        "content": "Immerse yourself in conversations that feel like you're face-to-face using webRTC and socketIO to emit and listen to different events while developing the web app.",
+        "githubLink": "https://github.com/AnshulKahar2729/webrtc-video-app",
+        "imgurl": "/projectSS/video-call.jpeg",
+        "deployedLink": "https://node-video-app-rf3s.onrender.com/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          }
+        ]
+      }
+    ]
+  }
+}
