@@ -45,7 +45,7 @@ export default function Hero({}: Props) {
         <h2 className="text-sm text-gray-800 dark:text-gray-400 uppercase tracking-[8px] md:tracking-[15px] pb-2 font-outfit">
           Anshul Kahar
         </h2>
-        <span className="text-blue-500 font-semibold bg-white py-1 px-4 border border-gray-400 rounded-full">
+        <span className="text-blue-500 font-semibold bg-white py-1 px-4 border border-gray-400 rounded-full hidden lg:block">
             Full stack developer, I love building in NextJS and ReactJS
           </span>
 
